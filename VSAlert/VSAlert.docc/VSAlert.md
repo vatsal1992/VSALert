@@ -4,8 +4,7 @@ This is replacement of native ``UIAlertController``. This library allows user to
 
 ## Overview
 
-### Install using cocoapod
-> pod 'VTSAlert'
+
 
 ## Topics
 
