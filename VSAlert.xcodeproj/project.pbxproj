@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8307352828FC5352004FC69C /* VSTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8307352728FC5352004FC69C /* VSTextField.swift */; };
 		833B495C288F147700184157 /* VSAlert.docc in Sources */ = {isa = PBXBuildFile; fileRef = 833B495B288F147700184157 /* VSAlert.docc */; };
 		833B4962288F147700184157 /* VSAlert.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 833B4957288F147700184157 /* VSAlert.framework */; };
 		833B4967288F147700184157 /* VSAlertTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833B4966288F147700184157 /* VSAlertTests.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8307352728FC5352004FC69C /* VSTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VSTextField.swift; sourceTree = "<group>"; };
 		833B4957288F147700184157 /* VSAlert.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VSAlert.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		833B495A288F147700184157 /* VSAlert.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VSAlert.h; sourceTree = "<group>"; };
 		833B495B288F147700184157 /* VSAlert.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = VSAlert.docc; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				833B49A8288F167E00184157 /* SupportClasses */,
 				833B49A9288F16B200184157 /* VSConfiguration.swift */,
 				833B49B1288F178500184157 /* VSAlertAction.swift */,
+				8307352728FC5352004FC69C /* VSTextField.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -302,6 +305,7 @@
 				833B49AE288F173700184157 /* DynamicHeightCollectionView.swift in Sources */,
 				833B49B4288F180400184157 /* VSAlertController.swift in Sources */,
 				833B49B0288F175400184157 /* VSAlertActionCell.swift in Sources */,
+				8307352828FC5352004FC69C /* VSTextField.swift in Sources */,
 				833B49B2288F178500184157 /* VSAlertAction.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
